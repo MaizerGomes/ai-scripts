@@ -1,0 +1,16 @@
+# Config & Keys
+cloudflareDnsSwitch/cloudflare_keys
+**/cloudflare_keys
+
+# Conductor Plans & Context
+**/conductor/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Temp Files
+*.tmp
+*.log
+.remember/tmp/
+.remember/logs/
